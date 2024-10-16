@@ -50,8 +50,8 @@ Here are some of the projects that showcase my work:
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/adson-pereira-170b111a0/)
-- Email: [your-email@example.com](mailto:adsondev.contato@gmail.com)
+- LinkedIn: [Adson Pereira](https://www.linkedin.com/in/adson-pereira-170b111a0/)
+- Email: [adsondev.contato@gmail.com](mailto:adsondev.contato@gmail.com)
 
 ---
 
