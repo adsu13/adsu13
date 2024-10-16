@@ -50,8 +50,8 @@ Here are some of the projects that showcase my work:
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Adson Pereira](https://www.linkedin.com/in/adson-pereira-170b111a0/)
-- Email: [adsondev.contato@gmail.com](mailto:adsondev.contato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adson-pereira-170b111a0/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:adsondev.contato@gmail.com)
 
 ---
 
