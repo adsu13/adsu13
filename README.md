@@ -1,14 +1,8 @@
 ## 📬 Get in Touch
 
-<a href="https://www.linkedin.com/in/adson-pereira-170b111a0/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" width="150" />
-</a>
-<a href="mailto:adsondev.contato@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://www.instagram.com/adsondev" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" width="150" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adson-pereira-170b111a0/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:adsondev.contato@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/adsondev)
 
 # Hi there, I'm [Adson Pereira] 👋
 
@@ -42,46 +36,24 @@ Here are some of the projects that showcase my work:
 
 ## 🛠️ Technologies I Use
 
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://python.org" target="_blank">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://php.net" target="_blank">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://azure.microsoft.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://selenium.dev" target="_blank">
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://mysql.com" target="_blank">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://reactnative.dev" target="_blank">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat" width="150" />
-</a>
-<a href="https://reactjs.org" target="_blank">
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat" width="150" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" width="150" />
-</a>
-<a href="https://kotlinlang.org" target="_blank">
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat" width="150" />
-</a>
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 ## ⚙️ GitHub Analytics
 
 ![Adson Pereira's GitHub Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=adsu13&layout=compact&theme=radical)
+
+
 
 ---
 
