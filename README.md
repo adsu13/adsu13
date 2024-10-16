@@ -1,3 +1,8 @@
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adson-pereira-170b111a0/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:adsondev.contato@gmail.com)
+
 # Hi there, I'm [Adson Pereira] 👋
 
 I'm a developer who thrives on challenges that push me to my limits. I love working on complex problems and continuously pushing myself to improve and grow. My top programming languages are **Node.js**, **Python**, and **PHP**, but I adapt quickly and can code in many others as well.
@@ -43,15 +48,11 @@ Here are some of the projects that showcase my work:
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
+## ⚙️ GitHub Analytics
 
-## 📈 GitHub Stats
+![Adson Pereira's GitHub Analytics](https://github-readme-stats.vercel.app/api?username=adsu13&show_icons=true&theme=radical)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsu13&show_icons=true&theme=radical)
 
-## 📬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adson-pereira-170b111a0/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:adsondev.contato@gmail.com)
 
 ---
 
